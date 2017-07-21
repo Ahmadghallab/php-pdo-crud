@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ckeditor/ckeditor": "^4.7",
+        "ezyang/htmlpurifier": "^4.9"
+    }
+}

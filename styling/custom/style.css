@@ -1,0 +1,19 @@
+input,
+textarea,
+button,
+.dropdown-menu,
+.jumbotron {
+  border-radius: 0 !important;
+  outline: none !important;
+}
+#arrow {
+  width: 15px;
+  opacity: 0.2;
+  cursor: pointer;
+}
+a {
+  color: #333;
+}
+a:hover {
+  text-decoration: none;
+}
